@@ -16,8 +16,8 @@
 
 ## Week4
 
-作业源码: [Week4/Source/Week4/](Week4/Source/Week4)
+作业源码: [Week4/Source/Week4/](Week4/Source/week4)
 
-作业笔记: [Week4/Notes/week4.md](Week4/Notes/Week4.md)
+作业笔记: [Week4/Notes/week4.md](Week4/Notes/week4.md)
 
 作业视频: [Week4/Notes/week4.mp4](Week4/Notes/week4.mp4)
